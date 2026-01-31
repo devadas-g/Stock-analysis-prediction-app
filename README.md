@@ -48,11 +48,16 @@ Time-series-project/
 
 ---
 
+
 ## ▶️ How to Run the Application
 python -m streamlit run Trading.py
 
+
 ---
 
-📊 Streamlit App Preview
+## 📊 Streamlit App Preview
+
+<img width="1895" height="909" alt="Screenshot 2026-01-31 232134" src="https://github.com/user-attachments/assets/ea245c6b-a153-4008-a1dc-82560b6e1139" />
+
 
 
